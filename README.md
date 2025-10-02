@@ -37,6 +37,16 @@ On **Windows** ...
         (epos)$ pip install geomagpy
         (epos)$ pip install notebook
 
+### 1.3 Running and editing the jupyter notebooks
+
+Clone or download the jupyter notebooks to your local directory.
+
+Go to that directory and run
+
+         jupyter notebook
+
+Open the notebook of your choice
+
 
 ## 2. Combining geomagnetic timeseries and geomagnetic activity information
 
