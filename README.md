@@ -29,7 +29,12 @@ Switch to this environment
 
         $ source ~/env/epos/bin/activate
 
-On **Windows** ...
+On **Windows** you can use [WinPython](https://winpython.github.io/). Download a recent version
+and unzip by executing it. Go to the unzipped folder and run a WinPython terminal to continue with the
+following steps.
+
+On **MacOS** it is recommended to install [Anaconda](https://anaconda.org/anaconda/python) and follow the anaconda instructions for environments.
+
 
 ### 1.2 Installation of the requires python packages
 
